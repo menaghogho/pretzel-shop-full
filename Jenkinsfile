@@ -1,5 +1,5 @@
-pipelne {
-    agent {
+pipeline {
+    aent {
        label 'pretzel_pipeline'
           }
 
