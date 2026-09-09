@@ -1,4 +1,4 @@
-pipeline {
+pipelne {
     agent {
        label 'pretzel_pipeline'
           }
