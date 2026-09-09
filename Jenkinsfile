@@ -1,5 +1,5 @@
 pipeline {
-    aent {
+    gaent {
        label 'pretzel_pipeline'
           }
 
