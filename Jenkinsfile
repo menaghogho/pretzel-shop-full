@@ -1,5 +1,8 @@
 pipeline {
-    agent pretzel_pipeline
+    agent {
+       label 'pretzel_pipeline'
+          }
+
 
     stages {
 
