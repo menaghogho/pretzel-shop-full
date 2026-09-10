@@ -1,6 +1,6 @@
 pipeline {
     agent {
-       label 'pretzel_pipeline'
+       label 'agentest'
           }
 
 
